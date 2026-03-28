@@ -2,7 +2,7 @@
 
 A beginner-friendly AI/ML project that tracks expenses, classifies them automatically using rule-based AI, performs statistical analysis, and helps users achieve financial goals.
 
-📄 Project Report: [Project_Report.pdf](./Project_Report.pdf)
+📄 Project Report: [Project_Report.pdf](./smart_expense_tracker_report.pdf)
 
 ---
 
